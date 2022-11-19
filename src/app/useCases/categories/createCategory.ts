@@ -11,7 +11,7 @@ export async function createCategories(req: Request, res: Response) {
       name
     });
 
-    res.json(category);
+    res.status(201).json(category);
   } catch (error) {
     res.status(500).json({
       error: 'Internal server error!',
