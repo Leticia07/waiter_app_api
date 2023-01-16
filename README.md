@@ -1,5 +1,6 @@
 # waiter_app_api
 This project was developed during JStack week 2022.
+
 The idea is to have a backend in nodejs to deal with the orders from a restaurant. The waiter should use the app in react native [available here](https://github.com/Leticia07/waiter_app) and the kitchen should use the dashboard web in reactjs [available here](https://github.com/Leticia07/waiter_app_fe)
 
 ## Technologies/Dependencies
