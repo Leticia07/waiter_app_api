@@ -20,7 +20,7 @@ To run the server
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Leticia07/nlw_heat_node.git
+$ git clone https://github.com/Leticia07/waiter_app_api.git
 
 # Go into the repository
 $ cd waiter_app_api
