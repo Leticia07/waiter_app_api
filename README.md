@@ -14,7 +14,7 @@ The idea is to have a backend in nodejs to deal with the orders from a restauran
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v18.12.1][nodejs] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v18.12.1][nodejs] or higher installed on your computer and a mongoose database to connect your api (can be a image on docker or even an online option). From your command line:
 
 To run the server
 
